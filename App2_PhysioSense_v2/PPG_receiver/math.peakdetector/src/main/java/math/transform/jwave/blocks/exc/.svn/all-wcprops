@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/exc
+END
+BlockFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/exc/BlockFailure.java
+END
+BlockError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/exc/BlockError.java
+END
+BlockException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/exc/BlockException.java
+END

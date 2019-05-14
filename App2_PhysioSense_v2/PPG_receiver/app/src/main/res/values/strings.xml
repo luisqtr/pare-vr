@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhysioSense</string>
+	<string name="hello_world">Hello Message!</string>
+    <string name="NoPeersFound">No peers have been found!!!</string>
+    <string name="buttonFindPeerAgent">Connect</string>
+    <string name="buttonSend">Test connection</string>
+    <string name="buttonShowDetails">DETAILS</string>
+    <string name="buttonHideDetails">HIDE</string>
+    <string name="buttonLog">New log folder</string>
+</resources>

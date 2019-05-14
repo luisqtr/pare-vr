@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers
+END
+AncientEgyptianDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/AncientEgyptianDecomposition.java
+END
+FastWaveletTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/FastWaveletTransform.java
+END
+WaveletTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/77/trunk/src/main/java/math/transform/jwave/handlers/WaveletTransform.java
+END
+DiscreteWaveletTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/DiscreteWaveletTransform.java
+END
+DiscreteFourierTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/DiscreteFourierTransform.java
+END
+WaveletPacketTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/WaveletPacketTransform.java
+END
+TransformInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/TransformInterface.java
+END
+BasicTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/BasicTransform.java
+END

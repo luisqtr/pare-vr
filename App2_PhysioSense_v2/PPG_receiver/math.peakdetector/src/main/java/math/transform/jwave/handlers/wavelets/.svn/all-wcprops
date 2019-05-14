@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets
+END
+Daub04.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Daub04.java
+END
+Lege04.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Lege04.java
+END
+Lege06.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Lege06.java
+END
+Coif06.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Coif06.java
+END
+Wavelet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Wavelet.java
+END
+WaveletInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/WaveletInterface.java
+END
+Haar02Orthogonal.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Haar02Orthogonal.java
+END
+Haar02.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Haar02.java
+END
+Daub02.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Daub02.java
+END
+Daub03.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Daub03.java
+END
+Lege02.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/handlers/wavelets/Lege02.java
+END

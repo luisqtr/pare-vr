@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89b9de82f6d2379478b088c96ce4a8b6, type: 3}
+  m_Name: DebugSettings_Physio
+  m_EditorClassIdentifier: 
+  loadSaveFromPlayerPrefs: 0
+  useRemoteDefaultSettings: 0
+  useLastCompletedSessionSettingsAsDefault: 0
+  sessionLength: 600
+  selectedEnvironment: 0
+  selectedWayToCalmDown: 0
+  selectedGuidedMeditation: 0
+  maxMindfulnessDays: 7
+  m_lastSessionLength: 30
+  m_lastWaysToCalmDown: 0
+  m_lastGuidedMeditation: 0
+  m_lastCalmPlaceEnvironment: 0
+  defaultLastSessionLength: 30
+  defaultWayToCalmDown: 0
+  defaultGuidedMeditation: 0
+  defaultCalmPlaceEnvironment: 0
+  m_environmentVolume: 1
+  m_environmentVolumeMuted: 0
+  m_musicVolume: 1
+  m_moodelizerVolume: 1
+  m_musicVolumeMuted: 0
+  m_voiceVolume: 1
+  m_voiceVolumeMuted: 0
+  sessionLengthOption1: 30
+  sessionLengthOption2: 600
+  sessionLengthOption3: 1200
+  timeOfDaySpeed: 0.5
+  rainSetting: 1
+  m_currentPose: 0
+  currentLanguageSetting: 1
+  m_isTimeFrozen: 1
+  m_isAnimalsEnabled: 1
+  startedSessions: 0
+  m_completedSessions: 0
+  m_secondsSpentInSessions: 0
+  timeSpentInRain: 0
+  m_meditationTrainingDaysCompleted: 0
+  m_dayStreak: 0
+  weekStreak: 0
+  m_headDistanceTraveled: 0
+  playerFeelings: []
+  lastSeenTimeSpent: 0
+  lastSeenDailyStreak: 0
+  lastSeenSessionsCompleted: 0
+  m_tutorialDisplayed: 1
+  m_isFirstTimeInEnvironment: 1
+  isFirstSessionCompleted: 0
+  hasGivenConsentStatus: 1
+  allowDataCollection: 0
+  m_onboardingLoadoutPerformed: 0
+  m_onboardingDurationPerformed: 0
+  m_onboardingActivityPerformed: 0
+  m_onboardingLocationPerformed: 0
+  includeFactoryResetButton: 0
+  displayFeelingInput: 1
+  isGamificationEnabled: 1
+  isLeaderboardEnabled: 0
+  isKioskModeEnabled: 0
+  kioskModeRestartSceneName: 
+  kioskModeResetTime: 0
+  setLastSessionTimeToYesterdayOnStartup: 0

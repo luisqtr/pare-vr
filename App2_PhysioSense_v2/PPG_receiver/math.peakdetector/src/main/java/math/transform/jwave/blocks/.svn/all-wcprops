@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks
+END
+BlockIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/BlockIndex.java
+END
+BlockDummy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/BlockDummy.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/Block.java
+END
+BlockType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/BlockType.java
+END
+BlockFull.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/BlockFull.java
+END
+BlockController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/80/trunk/src/main/java/math/transform/jwave/blocks/BlockController.java
+END

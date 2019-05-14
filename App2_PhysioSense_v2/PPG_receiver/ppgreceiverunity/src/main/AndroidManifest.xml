@@ -1,0 +1,31 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mimerse.ppgreceiverunity">
+
+    <uses-permission android:name="com.samsung.WATCH_APP_TYPE.Companion"/>
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <service android:name="com.mimerse.ppgreceiverunity.ConsumerService" />
+
+        <receiver android:name="com.samsung.android.sdk.accessory.RegisterUponInstallReceiver" >
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.REGISTER_AGENT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.sdk.accessory.MessageReceiver" >
+            <intent-filter>
+                <action android:name="com.samsung.accessory.action.MESSAGE_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="AccessoryServicesLocation"
+            android:value="/res/xml/accessoryservices.xml" />
+        <meta-data
+            android:name="GearAppType"
+            android:value="tpk" /> // "wgt" or "tpk"
+
+    </application>
+
+</manifest>

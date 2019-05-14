@@ -1,0 +1,5 @@
+set sysroot C:\tizen-studio\platforms\tizen-2.3.2\wearable\rootstraps\wearable-2.3.2-device.core
+set debug-file-directory C:\tizen-studio\platforms\tizen-2.3.2\wearable\rootstraps\wearable-2.3.2-device.core\usr\lib\debug
+set solib-search-path C:\Users\luise\workspace\RecorderPPG\Debug
+dir C:\tizen-studio\platforms\tizen-2.3.2\wearable\rootstraps\wearable-2.3.2-device.core\usr\src\debug
+sharedlibrary
