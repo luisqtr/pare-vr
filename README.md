@@ -18,8 +18,8 @@ The first application is developed in C using Tizen Studio and can be found in [
 
 The second application is developed in Java using Android Studio and can be found in [App 2](App2_PhysioSense_v2/). Based on the framework ![PhysioVR](https://github.com/PhysioTools/PhysioVR). It receives data from smartwatches through SAP protocol and runs an algorithm to detect peaks and calculate HRV from the collected signal. Then, the results of the calculation are sent through UDP to a mobile VR application to perform adaptations based on physiological data.
 
-The last application is a package developed in Unity contains the scripts to receive UDP data and design adaptation rules based. The provided files are not complete because the designed test used the proprietary software ![CalmPlace](https://mimerse.com/products/calm-place/). The files can be adapted for any Unity application deployed on Android.
+The last application is a package developed in Unity contains the scripts to receive UDP data and design adaptation rules based. Copy and paste the folder in a new Unity Project, the provided files are not complete because the tested solution was a proprietary software [CalmPlace](https://mimerse.com/products/calm-place/). The files can be adapted for any Unity application and be deployed on Android.
 
-To see instructions to setup the environments open the file [BriefDevGuide](docs/Brief-DevGuide-PARE-VR.pdf)
+For **developer's manual** to setup the environments: [Click Here](docs/Brief-DevGuide-PARE-VR.pdf)
 
-To see the whole thesis visit ![Master Thesis](http://luiseduve.github.io/files/2019_MasterThesis_LuisQuintero.pdf)
+To review the whole **thesis**: [Click Here](http://luiseduve.github.io/files/2019_MasterThesis_LuisQuintero.pdf)
