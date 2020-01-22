@@ -5,6 +5,12 @@ Project for Master Thesis in Health Informatics
 
 Karolinska Institutet & Stockholm University, Sweden
 
+If this project was useful for you, please reference the following papers in your work:
+
+> Luis Quintero, John Muñoz, Panagiotis Papapetrou. *Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications*. 2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR 2019), San Diego, CA, USA. <https://doi.org/10.1109/AIVR46125.2019.00027>
+
+> Luis Quintero, Panagiotis Papapetrou, John Muñoz, Uno Fors. *Implementation of Mobile-based Real-time Heart Rate Variability Detection for Personalized Healthcare*. Workshop TMDM in IEEE International Conference on Data Mining (ICDM2019), Beijing, China. <https://doi.org/10.1109/ICDMW.2019.00123>
+
 **By: Luis Quintero** | https://luiseduve.github.io
 
 ## Description
